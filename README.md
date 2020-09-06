@@ -6,7 +6,7 @@ Hi!                  👋
 
 I'm a collection of Giorgi's repositories, named [litehacker](https://github.com/litehacker). Here are some old C/C++ repositories, made for assignment purposes, the most of them are latest projects [Giorgi](https://www.linkedin.com/in/litehacker/?_l=en_US) has a passion for. 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litehacker&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=litehacker?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Who is Giorgi?
