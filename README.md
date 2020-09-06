@@ -20,4 +20,4 @@ In this repository, there should also be Angular Framework, ReactJS and React-Na
 - 💬 Ask me about ...
 - 📫 How to reach me: natceo@gmail.com
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=litehacker&show_icons=true&title_color=white)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=litehacker&show_icons=true&title_color=ffffff)
