@@ -18,3 +18,7 @@ In this repository, there should also be Angular Framework, ReactJS and React-Na
 - 👯 I’m looking to collaborate on Online 3D Printing Service
 - 💬 Ask me about ...
 - 📫 How to reach me: natceo@gmail.com
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
