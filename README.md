@@ -17,7 +17,7 @@ In this repository, there should also be Angular Framework, ReactJS and React-Na
 - 🔭 Works on projects for MS Teams app store.
 - 🌱 Learns Firebase, Blockchain, German
 - 👯 He's looking to collaborate on Online 3D Printing Service
-- 💬 Ask him about 3D printing, Psychophilosophy 
+- 💬 Ask him about 3D printing, IoT, Psychophilosophy 
 - 📫 How to reach Giorgi: natceo@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=litehacker&show_icons=true&)
