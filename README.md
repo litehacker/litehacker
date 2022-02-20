@@ -1,6 +1,6 @@
 
 
-# Giorgi Gvimradze
+# Giorgi Gvimradze - React Developer
 
 Hi!                  👋
 
