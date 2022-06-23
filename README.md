@@ -16,7 +16,7 @@ In this repository, there should also be Angular Framework, ReactJS and React-Na
 
 - 🔭 Works on projects for MS Teams app store.
 - 🌱 Learns Firebase, Blockchain, German
-- 👯 He's looking to collaborate on Online 3D Printing Service
+- 👯 He's looking to collaborate in IoT projects including Blockchain, Lora, 
 - 💬 Ask him about 3D printing, IoT, Psychophilosophy 
 - 📫 How to reach Giorgi: natceo@gmail.com
 
