@@ -1,5 +1,5 @@
 # Giorgi Gvimradze - React Developer
-###### Founder of SmartPayChain
+### Founder of MtkvariPay
 Hi!                  👋
 
 I'm a collection of Giorgi's repositories, named [litehacker](https://github.com/litehacker). Here are some old C/C++ repositories, made for assignment purposes, the most of them are latest projects [Giorgi](https://www.linkedin.com/in/litehacker/?_l=en_US) has a passion for. 
