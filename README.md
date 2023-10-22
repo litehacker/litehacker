@@ -1,5 +1,7 @@
-# Giorgi Gvimradze - React Developer
-##### Founder of MtkvariPay
+# [![Giorgi Gvimradze FullStack](https://github.com/litehacker/litehacker/assets/17227327/4d682c38-bbcb-44f6-8523-d85c66b89902)](https://www.linkedin.com/in/litehacker/) Giorgi Gvimradze - Fullstack Developer 
+
+
+##### Founder of MtkvariPay 
 Hi!                  👋
 
 I'm a collection of Giorgi's repositories, named [litehacker](https://github.com/litehacker). Here are some old-school C/C++ projects and experiments that he does on his road. Few are made for assignment purposes, the most of them are the latest projects [Giorgi](https://www.linkedin.com/in/litehacker/?_l=en_US) has a passion for. 
