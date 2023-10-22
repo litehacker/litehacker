@@ -4,8 +4,8 @@ Hi!                  👋
 
 I'm a collection of Giorgi's repositories, named [litehacker](https://github.com/litehacker). Here are some old-school C/C++ projects and experiments that he does on his road. Few are made for assignment purposes, the most of them are the latest projects [Giorgi](https://www.linkedin.com/in/litehacker/?_l=en_US) has a passion for. 
  
-[![Giorgi Gvimradze - Top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=litehacker&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Giorgi Gvimradze - Stack overflow statistics](https://so-stats-kurt-liao.vercel.app/api?user=4307534)](https://github.com/kurt-liao/so-stats)
+[![Giorgi Gvimradze - Top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=litehacker&count_private=true&layout=compact)](https://stackoverflow.com/users/4307534/giorgi-gvimradze)
+[![Giorgi Gvimradze - Stack overflow statistics](https://so-stats-kurt-liao.vercel.app/api?user=4307534)](https://stackoverflow.com/users/4307534/giorgi-gvimradze)
 
 ## Who is Giorgi?
 
