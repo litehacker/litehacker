@@ -12,10 +12,10 @@ I'm a collection of Giorgi's repositories, named [litehacker](https://github.com
 A computer engineer who loves music. Is looking forward to doing some great Crypto and Fintech projects.   
 In this repository, there should also be Angular Framework, ReactJS, and React-Native components and boilerplates.
 
-- 🔭 Works on projects for MS Teams app store, Salesforce, Sharepoint, and Firebase usually with Typescript.
-- 🌱 Learns Firebase, Blockchain, German
-- 👯 He's looking to collaborate in IoT projects including Blockchain, Lora, 
-- 💬 Ask him about 3D printing, IoT, Psychophilosophy 
+- 🔭 Works on solo project MtkvariPay - a solution for easy payments and access control between mobile app and IoT.
+- 🌱 Learns Firebase, Blockchain, bachata and ~German~ (was too hard)
+- 👯 He's looking to collaborate in IoT projects including Web3, mobile app development 
+- 💬 Ask him about 3D printing, Psychophilosophy, the difference between inspiration and discipline
 - 📫 How to reach Giorgi: natceo@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=litehacker&show_icons=true&)
